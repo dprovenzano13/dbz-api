@@ -1,7 +1,7 @@
 # dbz-api
 I created a Dragon Ball Super api that gives you information about specific characters!
 
-If you are wanting to use this api you will need to use npm install in your terminal.
+If you are wanting to use this api you will need to use <b><i>npm install </i></b>in your terminal.
 
 Here is the main api link https://dbz-super-api.herokuapp.com/
 
